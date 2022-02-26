@@ -1,0 +1,614 @@
+10
+121
+cyber owca
+6
+9
+17
+4
+121
+wilcze jagody
+1
+3
+99
+0
+121
+barszcz sosnowskiego
+6
+9
+0
+0
+120
+barszcz sosnowskiego
+2
+6
+0
+0
+120
+mlecz
+2
+9
+0
+0
+119
+mlecz
+2
+9
+0
+0
+116
+barszcz sosnowskiego
+5
+9
+0
+0
+116
+barszcz sosnowskiego
+7
+9
+0
+0
+115
+wilcze jagody
+2
+3
+99
+0
+115
+mlecz
+2
+8
+0
+0
+115
+wilcze jagody
+1
+4
+99
+0
+114
+mlecz
+3
+9
+0
+0
+114
+barszcz sosnowskiego
+2
+7
+0
+0
+114
+mlecz
+1
+8
+0
+0
+114
+mlecz
+3
+8
+0
+0
+113
+mlecz
+1
+7
+0
+0
+113
+barszcz sosnowskiego
+3
+7
+0
+0
+112
+wilcze jagody
+1
+5
+99
+0
+112
+mlecz
+4
+9
+0
+0
+112
+mlecz
+1
+9
+0
+0
+112
+mlecz
+0
+8
+0
+0
+112
+mlecz
+0
+7
+0
+0
+111
+barszcz sosnowskiego
+4
+7
+0
+0
+111
+wilcze jagody
+3
+3
+99
+0
+110
+mlecz
+0
+9
+0
+0
+110
+barszcz sosnowskiego
+5
+7
+0
+0
+110
+mlecz
+4
+8
+0
+0
+109
+mlecz
+1
+6
+0
+0
+109
+wilcze jagody
+2
+5
+99
+0
+109
+mlecz
+0
+6
+0
+0
+108
+wilcze jagody
+2
+4
+99
+0
+108
+barszcz sosnowskiego
+6
+8
+0
+0
+107
+barszcz sosnowskiego
+3
+6
+0
+0
+107
+wilcze jagody
+2
+2
+99
+0
+107
+wilcze jagody
+3
+2
+99
+0
+107
+barszcz sosnowskiego
+5
+8
+0
+0
+106
+mlecz
+0
+5
+0
+0
+106
+barszcz sosnowskiego
+6
+7
+0
+0
+105
+wilcze jagody
+1
+2
+99
+0
+104
+barszcz sosnowskiego
+4
+6
+0
+0
+104
+mlecz
+0
+4
+0
+0
+104
+wilcze jagody
+1
+1
+99
+0
+103
+wilcze jagody
+2
+1
+99
+0
+101
+mlecz
+0
+3
+0
+0
+100
+wilcze jagody
+4
+3
+99
+0
+99
+wilcze jagody
+4
+2
+99
+0
+99
+wilcze jagody
+3
+4
+99
+0
+98
+barszcz sosnowskiego
+5
+6
+0
+0
+98
+wilcze jagody
+0
+2
+99
+0
+98
+wilcze jagody
+3
+5
+99
+0
+97
+wilcze jagody
+5
+3
+99
+0
+96
+wilcze jagody
+4
+4
+99
+0
+96
+wilcze jagody
+0
+1
+99
+0
+95
+wilcze jagody
+4
+5
+99
+0
+93
+wilcze jagody
+5
+2
+99
+0
+92
+wilcze jagody
+5
+4
+99
+0
+92
+wilcze jagody
+5
+5
+99
+0
+90
+wilcze jagody
+0
+0
+99
+0
+89
+wilcze jagody
+2
+0
+99
+0
+88
+wilcze jagody
+6
+4
+99
+0
+86
+wilcze jagody
+1
+0
+99
+0
+86
+wilcze jagody
+4
+1
+99
+0
+85
+wilcze jagody
+6
+2
+99
+0
+84
+wilcze jagody
+3
+1
+99
+0
+83
+wilcze jagody
+3
+0
+99
+0
+83
+wilcze jagody
+6
+3
+99
+0
+83
+barszcz sosnowskiego
+7
+8
+0
+0
+80
+wilcze jagody
+6
+5
+99
+0
+80
+wilcze jagody
+6
+1
+99
+0
+80
+wilcze jagody
+4
+0
+99
+0
+80
+wilcze jagody
+7
+2
+99
+0
+79
+barszcz sosnowskiego
+7
+7
+0
+0
+79
+wilcze jagody
+5
+0
+99
+0
+79
+barszcz sosnowskiego
+6
+6
+0
+0
+78
+wilcze jagody
+7
+1
+99
+0
+78
+wilcze jagody
+5
+1
+99
+0
+77
+barszcz sosnowskiego
+7
+6
+0
+0
+77
+barszcz sosnowskiego
+8
+9
+0
+0
+76
+barszcz sosnowskiego
+8
+8
+0
+0
+75
+wilcze jagody
+7
+5
+99
+0
+75
+wilcze jagody
+8
+2
+99
+0
+74
+wilcze jagody
+7
+0
+99
+0
+74
+barszcz sosnowskiego
+8
+6
+0
+0
+74
+wilcze jagody
+6
+0
+99
+0
+73
+wilcze jagody
+7
+3
+99
+0
+72
+barszcz sosnowskiego
+8
+7
+0
+0
+71
+wilcze jagody
+8
+1
+99
+0
+71
+wilcze jagody
+8
+0
+99
+0
+71
+wilcze jagody
+8
+3
+99
+0
+70
+wilcze jagody
+7
+4
+99
+0
+67
+barszcz sosnowskiego
+9
+9
+0
+0
+67
+wilcze jagody
+9
+1
+99
+0
+67
+wilcze jagody
+8
+4
+99
+0
+66
+wilcze jagody
+8
+5
+99
+0
+61
+wilcze jagody
+9
+4
+99
+0
+60
+barszcz sosnowskiego
+9
+7
+0
+0
+58
+barszcz sosnowskiego
+9
+8
+0
+0
+57
+barszcz sosnowskiego
+9
+6
+0
+0
+57
+wilcze jagody
+9
+2
+99
+0
+55
+wilcze jagody
+9
+3
+99
+0
+51
+wilcze jagody
+9
+0
+99
+0
+49
+wilcze jagody
+9
+5
+99
+0
+49
